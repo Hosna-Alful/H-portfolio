@@ -1,1 +1,1 @@
-#brogrammer.jpg
+brogrammer.jpg
